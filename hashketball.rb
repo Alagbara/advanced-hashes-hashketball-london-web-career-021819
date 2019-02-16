@@ -252,6 +252,13 @@ end
   end
   player_name
 end
+
+def biggest_shoe_size
+  game_hash.each do |team_info, data|
+    data[:players].each ||
+  end
+  end
+end
   
 
 
